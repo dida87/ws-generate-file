@@ -1,0 +1,1 @@
+Generate jdl file to submit docking job to the grid
